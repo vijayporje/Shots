@@ -1,7 +1,7 @@
 # Base configs
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-
+baseurl: "https://cakecounty.in"
 # UI configs
 title: "Cake County"
 subtitle: "Available designs"
